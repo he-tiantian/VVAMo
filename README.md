@@ -1,2 +1,7 @@
 Underconstruction...
-This reporsitory contains the source code of the model VVAMo. The corresponding paper has been accepted by IEEE Transactions on Cybernetics (2021).
+
+This repository contains the Matlab implementation of a graph clustering model, dubbed Vicinal vertex allocated matrix factorization (VVAMo).
+
+@article{he2021vivinal, title={Vicinal Vertex Allocation for Matrix Factorization in Networks}, author={He, Tiantian and Bai, Lu and Ong, Yew-Soon}, journal={IEEE transactions on cybernetics}, year={2021}, publisher={IEEE} }
+
+Notice: The source code is permitted to use only for research and non-commercial activities. If you have any question, please feel free to contact us via tiantian.he@outlook.com.
