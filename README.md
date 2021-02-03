@@ -1,1 +1,2 @@
-
+Underconstruction...
+This reporsitory contains the source code of the model VVAMo. The corresponding paper has been accepted by IEEE Transactions on Cybernetics (2021).
