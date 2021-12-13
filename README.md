@@ -1,5 +1,3 @@
-Underconstruction...
-
 This repository contains the Matlab implementation of a network clustering model, dubbed Vicinal vertex allocated matrix factorization (VVAMo). If you are interested in using this model in your research works, please cite:
 
 @article{he2021vivinal, title={Vicinal Vertex Allocation for Matrix Factorization in Networks}, author={He, Tiantian and Bai, Lu and Ong, Yew-Soon}, journal={IEEE transactions on cybernetics}, year={2021}, publisher={IEEE} }
